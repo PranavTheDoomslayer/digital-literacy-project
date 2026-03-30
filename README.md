@@ -1,29 +1,60 @@
-# Module 2: Build Your Student Digital Portfolio
+# 🛡️ Student Digital Ambassador Portfolio: Digital Literacy Project
 
-## 📂 Module 2: Building a Student Digital Portfolio
-
-### **2.1 Objective**
-To establish a foundational professional presence across key digital platforms used by the global academic and tech community, ensuring a "digital-first" approach to my engineering career.
-
----
-
-### **2.2 Platform Ecosystem & Evidence**
-
-#### **I. LinkedIn: Professional Networking & Branding**
-* **Purpose:** Connecting with the VIT Bhopal academic community and tracking industry trends/internship opportunities.
-* **Action:** Updated education details and professional summary to align with B.Tech standards.
-
-#### **II. GitHub: Technical Portfolio & Version Control**
-* **Purpose:** Primary repository for hosting coding projects and documenting learning progress.
-* **Action:** Developed a personalized README landing page showcasing branch, year, and technical goals.
-
-#### **III. Kaggle: Data Science & AI Engagement**
-* **Purpose:** Engaging with the global data science community and practicing with real-world datasets.
-* **Action:** Established a research-oriented profile to bridge the gap between theory and data application.
+### 🎓 VIT Bhopal University | CSE1021
+**Student Name:** Pranav Raghuvanshi  
+**Registration Number:** 25BCY10108  
+**Branch:** B.Tech Computer Science & Engineering  
 
 ---
 
-### **2.3 Module Reflection**
-For this task, I established my foundational professional presence on LinkedIn, GitHub, and Kaggle. I chose LinkedIn to begin connecting with the academic community at VIT Bhopal and to track industry trends and internship opportunities early in my degree. GitHub serves as my primary technical portfolio, where I will host my coding projects, document my learning progress, and eventually collaborate on open-source software. I selected Kaggle as my third platform because it is the leading community for data science and AI, offering a space to practice with real-world datasets and learn from global experts.
+## 🎯 Project Overview
+This repository serves as a comprehensive technical portfolio developed during the **Digital Literacy Project**. As a **Student Digital Ambassador**, I have established a multi-layered professional presence, mastered collaborative cloud tools, and conducted critical research into cybersecurity threats facing the Indian student community.
 
-As a first-year student, I plan to use these platforms to build a "digital trail" of my growth over the next four years. By maintaining professional and minimal profiles now, I am ensuring that my digital footprint is prepared for the professional world. These tools will not only help me bridge the gap between classroom theory and industry practice but will also demonstrate my consistency and technical skills to future employers and coordinators.
+The project bridges the gap between technical engineering skills and the social responsibility of digital citizenship.
+
+---
+
+## 📂 Module Summaries
+
+### **Module 1: Professional Identity (Visual Advocacy)**
+* **Focus:** Visual communication of digital literacy.
+* **Outcome:** Designed an infographic to educate peers on core tools like GitHub, LinkedIn, and safe internet practices.
+* **Folder:** [![Task 1](https://img.shields.io/badge/Task--1-Presentation-yellow?style=for-the-badge&logo=googleslides&logoColor=white)](task-1-presentation)
+
+### **Module 2: The Digital Portfolio Ecosystem**
+* **Focus:** Establishing a professional "Digital Twin."
+* **Outcome:** Built a technical roadmap across **LinkedIn** (Networking), **GitHub** (Version Control), and **Kaggle** (Data Science).
+* **Links:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](INSERT_YOUR_LINKEDIN_URL) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](INSERT_YOUR_GITHUB_URL) | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](INSERT_YOUR_KAGGLE_URL)
+
+### **Module 3: Technical Problem Solving & Collaboration**
+* **Focus:** Algorithmic logic and data automation.
+* **Outcome:** Completed **HackerRank** challenges and designed a cloud-integrated **Google Form/Sheet** survey for real-time data analysis.
+* **Folder:** [![Task 3](https://img.shields.io/badge/Task--3-Platforms-blueviolet?style=for-the-badge&logo=git&logoColor=white)](task-3-platforms)
+* **Google Quiz Form Link:** [INSERT_YOUR_GOOGLE_FORM_URL]
+
+### **Module 4: Professional Communication & Etiquette**
+* **Focus:** Industry-standard correspondence.
+* **Outcome:** Mastered formal email protocols for academic and corporate outreach (e.g., Google STEP Internship inquiry) and developed a 10-point Social Media Code of Conduct.
+* **Folder:** [![Task 4](https://img.shields.io/badge/Task--4-Email%20Etiquette-green?style=for-the-badge&logo=gmail&logoColor=white)](task-4-email-etiquette)
+
+### **Module 5: Cybercrime Awareness & Prevention**
+* **Focus:** Threat analysis and community safety.
+* **Outcome:** Analyzed a real-world **₹5 Lakh RTO Phishing Scam** and developed an 8-point **Stay Safe Online** checklist for UPI and financial security.
+* **Folder:** [![Task 5](https://img.shields.io/badge/Task--5-Cybercrime%20Analysis-red?style=for-the-badge&logo=generic-shared&logoColor=white)](task-5-cybercrime)
+
+---
+
+## 📄 Final Project Report
+The complete technical documentation, including all screenshots, technical reflections, and learning outcomes, is available here:
+* [![Project Report](https://img.shields.io/badge/Project%20Report-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Project_Report.pdf)
+
+---
+
+## 🚀 Future Roadmap: B.Tech CSE (2025-2029)
+My objective is to maintain this repository as a living portfolio throughout my journey at VIT Bhopal:
+* **Short-term:** Expanding the `task-3-platforms` folder with advanced Data Structures and Algorithm (DSA) solutions.
+* **Mid-term:** Utilizing the Kaggle foundation for Machine Learning and AI research projects.
+* **Long-term:** Leveraging this documented growth to secure high-impact internships, such as the Google STEP program.
+
+---
+*“Securing the digital world, one ambassador at a time.”* **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](INSERT_YOUR_LINKEDIN_URL)
