@@ -4,9 +4,13 @@ Module 1: Digital Literacy Awareness
 Definition: The ability to find, evaluate, and communicate information through digital platforms responsibly.
 
 Key Topics Covered:
+
 -Essential Apps: GitHub for portfolios, LinkedIn for professional networking, and Google Workspace for collaboration.
+
 -Internet Safety: Phishing recognition, securing accounts with 2FA, and strict UPI PIN safety.
+
 -Professionalism: Maintaining a formal tone and keeping academic profiles (VIT Bhopal) updated.
+
 -Reporting: Knowledge of the 1930 Helpline and cybercrime.gov.in.
 
 Tool Used: Canva.
